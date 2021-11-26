@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/VanDeGraf/odin-todos/issues"
   },
-  "homepage": "https://github.com/VanDeGraf/odin-todos#readme"
+  "homepage": "https://github.com/VanDeGraf/odin-todos#readme",
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.6.0"
+  }
 }
